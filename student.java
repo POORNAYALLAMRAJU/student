@@ -3,5 +3,6 @@ public class student {
 		System.out.println("good poorna");
 		System.out.println("hi everone");
 		System.out.println("new one add");
+		System.out.println("now practics");
 	}
 } 
